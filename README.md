@@ -56,7 +56,7 @@ Nepal College of Information Technology (NCIT), Pokhara University
 
 ## 📎 References
 
-- **Er. Sagar Budhhathoki** – DevOps Engineer, Threadcode Technologies  
+- **Er. Sagar Budhhathoki**(https://www.linkedin.com/in/sbmagar13/) – DevOps Engineer, Threadcode Technologies  
   📞 +977-9864420272
 
 - **Er. Shivahari Acharya** – Head of BCA, Nepal College of Information Technology  
