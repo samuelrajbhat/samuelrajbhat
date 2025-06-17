@@ -53,11 +53,23 @@ Nepal College of Information Technology (NCIT), Pokhara University
 📅 Graduated 2024 | 🎯 GPA: 3.50
 
 ---
+💻 Core Technical Curriculum
+<details>
+<summary><b>🔍 Key Software Engineering Subjects</b></summary>
+<br>
+
+Object-Oriented Programming (Java) & Programming in C
+Data Structure & Algorithms • Software Engineering
+Database Management Systems • Web Technologies I & II
+Operating Systems • Computer Networks
+System Analysis & Project Management • Cloud Computing
+Data Science and Analytics • Mobile Application Development
+
+</details>
 
 ## 📎 References
 
 - [**Er. Sagar Budhhathoki**](https://www.linkedin.com/in/sbmagar13/) – DevOps Engineer, Threadcode Technologies  
-  📞 +977-9864420272
 
 - **Er. Shivahari Acharya** – Head of BCA, Nepal College of Information Technology  
   📧 hod.bca@ncit.edu.np
