@@ -76,6 +76,8 @@ Nepal College of Information Technology (NCIT), Pokhara University
 
 ---
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bf0olkhsf72gt7rszukn9v9im&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=bf0olkhsf72gt7rszukn9v9im&redirect=true)
+
 <!-- ## 📄 Download My CV
 
 You can find and download my latest resume [here](./CV%20Samuel_Raj_Bhat.pdf). -->
