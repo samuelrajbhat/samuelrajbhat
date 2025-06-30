@@ -53,15 +53,15 @@ Nepal College of Information Technology (NCIT), Pokhara University
 📅 Graduated 2024 | 🎯 GPA: 3.50
 
 <details>
-<summary><b>💻 Key Software Engineering Subjects</b></summary>
-<br>
+| 💻 Key Software Engineering Subjects |            |
+|-------------------------------------|------------|
+| Object-Oriented Programming (Java)  | Programming in C |
+| Data Structure & Algorithms         | Software Engineering |
+| Database Management Systems         | Web Technologies I & II |
+| Operating Systems                   | Computer Networks |
+| System Analysis & Project Management | Cloud Computing |
+| Data Science and Analytics          | Mobile Application Development |
 
-• Object-Oriented Programming (Java) & Programming in C
-• Data Structure & Algorithms • Software Engineering
-• Database Management Systems • Web Technologies I & II
-• Operating Systems • Computer Networks
-• System Analysis & Project Management • Cloud Computing
-• Data Science and Analytics • Mobile Application Development
 
 </details>
 ---
