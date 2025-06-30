@@ -52,7 +52,7 @@ I’m an enthusiastic and detail-oriented Software Engineer with a strong focus 
 Nepal College of Information Technology (NCIT), Pokhara University  
 📅 Graduated 2024 | 🎯 GPA: 3.50
 
-<details>
+
 | 💻 Key Software Engineering Subjects |            |
 |-------------------------------------|------------|
 | Object-Oriented Programming (Java)  | Programming in C |
@@ -63,7 +63,7 @@ Nepal College of Information Technology (NCIT), Pokhara University
 | Data Science and Analytics          | Mobile Application Development |
 
 
-</details>
+
 ---
 
 
