@@ -2,8 +2,7 @@
 
 **Software Engineer | Backend Developer | FastAPI Enthusiast**
 
-📍 Imadole, Lalitpur, Nepal  
-📧 [samuelrajbhat5@gmail.com](mailto:samuelrajbhat5@gmail.com)  
+📍 Imadole, Lalitpur, Nepal    
 🔗 [linkedin.com/in/samuelbhat](https://www.linkedin.com/in/samuelbhat)
 
 ---
@@ -35,37 +34,50 @@ I’m an enthusiastic and detail-oriented Software Engineer with a strong focus 
 ## 💼 Experience
 
 **Software Engineer**  
-*Threadcode Technologies Pvt. Ltd.*  
-📆 Jan 2025 – Present
+**Threadcode Technologies Pvt. Ltd.**  
+📆 Mar 2025 – Present
 
-- Developed backend APIs using Python and FastAPI  
-- Designed and implemented database models using ORM  
+- Developed and maintained backend APIs using Python and FastAPI  
+- Designed database models and implemented ORM solutions  
 - Built RESTful services and dynamic HTML templates  
-- Collaborated with frontend developers for seamless integration  
-- Used Git for version control in a collaborative team setup
+- Collaborated with frontend developers for seamless API integration  
+- Integrated RESTful APIs and resolved UI bugs in collaboration with frontend developers
+- Created and deployed LLM-powered features using **LangChain**, **LangGraph**, and **OpenAI APIs**  
+- Built custom RAG pipelines and document retrieval workflows for question-answering applications
+- 
+**Internship**  
+**Threadcode Technologies Pvt. Ltd.**
+📆 Jan 2024 – Apr 2024
+- Developed APIs and dynamic HTML templates using Jinja2, FastAPI
+- Designed and implemented database models using ORM
+- Practiced version control with Git in a collaborative setting
+- Supported feature delivery under guidance of senior developers
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Application (BCA)**  
-Nepal College of Information Technology (NCIT), Pokhara University  
-📅 Graduated 2024 | 🎯 GPA: 3.50
+### Bachelor of Computer Application (BCA)  
+<span style="font-size: 1.2em; font-weight: bold;">**Nepal College of Information Technology (NCIT), Pokhara University**</span>  
+📅 **Graduated 2024** | 🎯 **GPA: 3.50**
 
+<details>
+<summary>💻 <strong>Key Software Engineering Subjects</strong></summary>
 
-| 💻 Key Software Engineering Subjects |            |
-|-------------------------------------|------------|
-| Object-Oriented Programming (Java)  | Programming in C |
-| Data Structure & Algorithms         | Software Engineering |
-| Database Management Systems         | Web Technologies I & II |
-| Operating Systems                   | Computer Networks |
-| System Analysis & Project Management | Cloud Computing |
-| Data Science and Analytics          | Mobile Application Development |
+<br>
 
+|                                    |                                    |
+|------------------------------------|------------------------------------|
+| Object-Oriented Programming in C++ | Programming in C                   |
+| Data Structure & Algorithms        | Software Engineering               |
+| Database Management Systems        | Web Technologies I & II            |
+| Operating Systems                  | Computer Architecture              |
+| System Analysis & Design           | Java Programming                   |
+| Artificial Intelligence            | Mobile Application Development     |
 
+</details>
 
 ---
-
 
 ## 📎 References
 
