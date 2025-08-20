@@ -61,8 +61,8 @@ Nepal College of Information Technology (NCIT), Pokhara University
 
 ## 📎 References  
 
-- **Er. Sampurna Chhantyal** – Engineering Manager, Threadcode Technologies Pvt. Ltd. 📞 9841740049  
-- **Er. Sagar Budhhathoki** – DevOps Engineer, Threadcode Technologies  
+- [**Er. Sampurna Chhantyal**](https://www.linkedin.com/in/sampurnachhantyal/) – Engineering Manager, Threadcode Technologies Pvt. Ltd.  
+<!-- - **Er. Sagar Budhhathoki** – DevOps Engineer, Threadcode Technologies   -->
 - **Er. Shivahari Acharya** – Head of BCA, NCIT  
 
 ---
