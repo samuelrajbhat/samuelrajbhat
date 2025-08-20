@@ -2,9 +2,8 @@
 
 **Software Engineer | Python Backend Developer | FastAPI Enthusiast | AI Workflow Builder**  
 
-📍 Kathmandu, Nepal  
-📧 [samuelrajbhat5@gmail.com](mailto:samuelrajbhat5@gmail.com)  
-🔗 [linkedin.com/in/samuelbhat](https://www.linkedin.com/in/samuelbhat) | [github.com/samuelrajbhat](https://github.com/samuelrajbhat)  
+📍 Imadole, Lalitpur, Nepal    
+🔗 [linkedin.com/in/samuelbhat](https://www.linkedin.com/in/samuelbhat)
 
 ---
 
@@ -29,32 +28,13 @@ Full-stack Python Developer with hands-on experience delivering production-ready
 
 **Software Engineer**  
 *Threadcode Technologies Pvt. Ltd.*  
-📆 Jan 2025 – Present  
+📆 Jan 2025 – Present
 
-- Designed and developed **FastAPI + React applications** with secure authentication and scalable APIs  
-- Built **AI-powered workflows** using LangChain, LangGraph, and vector databases for RAG  
-- Integrated **OpenAI and Anthropic models** into production workflows for contextual reasoning and automation  
-- Optimized backend performance and implemented **CI/CD pipelines with Docker and GitHub Actions**  
-- Delivered features end-to-end, from **schema design to frontend integration**  
-
-**Backend Intern**  
-*Threadcode Technologies Pvt. Ltd.*  
-📆 Jan 2024 – Apr 2024  
-
-- Developed backend APIs using **FastAPI** and dynamic templates with **Jinja2**  
-- Designed and implemented database models with **PostgreSQL + ORM**  
-- Practiced Git-based collaboration and contributed to CI/CD processes  
-- Supported feature development under senior developer guidance  
-
----
-
-## 🚀 Projects  
-
-- **AI To-Do App** *(FastAPI, PostgreSQL, JWT, React)*  
-  Built a secure full-stack app with authentication, CRUD APIs, and React frontend. Implemented **task categorization & summarization** using LLMs (via LangChain).  
-
-- **Conversational AI Agent Development** *(LangGraph, LangChain, Python)*  
-  Developed multi-agent chatbot workflows with LLMs (OpenAI, Groq). Integrated external tools (e.g., TavilySearch) for real-time info retrieval. Implemented **state management, checkpointing, and human-in-the-loop feedback loops**.  
+- Developed backend APIs using Python and FastAPI  
+- Designed and implemented database models using ORM  
+- Built RESTful services and dynamic HTML templates  
+- Collaborated with frontend developers for seamless integration  
+- Used Git for version control in a collaborative team setup
 
 ---
 
@@ -62,9 +42,22 @@ Full-stack Python Developer with hands-on experience delivering production-ready
 
 **Bachelor of Computer Application (BCA)**  
 Nepal College of Information Technology (NCIT), Pokhara University  
-📅 Graduated 2024 | 🎯 GPA: 3.50  
+📅 Graduated 2024 | 🎯 GPA: 3.50
+
+
+| 💻 Key Software Engineering Subjects |            |
+|-------------------------------------|------------|
+| Object-Oriented Programming (Java)  | Programming in C |
+| Data Structure & Algorithms         | Software Engineering |
+| Database Management Systems         | Web Technologies I & II |
+| Operating Systems                   | Computer Networks |
+| System Analysis & Project Management | Cloud Computing |
+| Data Science and Analytics          | Mobile Application Development |
+
+
 
 ---
+
 
 ## 📎 References  
 
