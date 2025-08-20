@@ -1,7 +1,6 @@
 # 👨‍💻 Samuel Raj Bhat
 
-**Software Engineer | Backend Developer | FastAPI Enthusiast**
-
+**Software Engineer | Python Backend Developer | FastAPI Enthusiast | AI Workflow Builder**  
 📍 Imadole, Lalitpur, Nepal    
 🔗 [linkedin.com/in/samuelbhat](https://www.linkedin.com/in/samuelbhat)
 
@@ -9,17 +8,18 @@
 
 ## 🧾 About Me
 
-I’m an enthusiastic and detail-oriented Software Engineer with a strong focus on backend development using Python, FastAPI, and modern web technologies. I love building scalable and maintainable web applications and contributing to real-world projects in fast-paced environments. I enjoy writing clean code and collaborating with teams to turn ideas into working products.
+Full-stack Python Developer with hands-on experience delivering production-ready web applications and AI-powered workflows. Skilled in FastAPI, Django, PostgreSQL, and React.js, with practical knowledge of CI/CD pipelines, Docker, and scalable backend architectures. I enjoy designing end-to-end features—from database schema design to REST APIs and frontend integration—while also implementing modern AI solutions such as RAG pipelines and conversational agents. 
 
 ---
 
 ## 💻 Technical Skills
 
-- **Backend:** Python, FastAPI, Django, Langchain, LangGraph  
+- **Backend Development:** Python, FastAPI, Django, REST API, ORM, Streamlit  
 - **Frontend:** React.js, JavaScript, HTML5, CSS3, jQuery  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, GitHub, GitLab, VS Code, Postman  
-- **Core Concepts:** REST API, ORM, Version Control, Database Design
+- **Databases:** MySQL, PostgreSQL, Redis, vector databases (ChromaDB)  
+- **LLM/AI:** LangChain, LangGraph, Retrieval-Augmented Generation (RAG), embeddings, OpenAI API, Anthropic, Gemini, multi-agent systems  
+- **Tools & Platforms:** Git, GitHub, GitLab, Docker, Postman, GitHub Actions  
+- **Concepts & Soft Skills:** Scalable Application Architecture, AI Agent Orchestration, OOP, Problem Solving, Teamwork, Data Preprocessing  
 
 ---
 
@@ -37,21 +37,35 @@ I’m an enthusiastic and detail-oriented Software Engineer with a strong focus 
 **Threadcode Technologies Pvt. Ltd.**  
 📆 Mar 2025 – Present
 
-- Developed and maintained backend APIs using Python and FastAPI  
-- Designed database models and implemented ORM solutions  
-- Built RESTful services and dynamic HTML templates  
-- Collaborated with frontend developers for seamless API integration  
-- Integrated RESTful APIs and resolved UI bugs in collaboration with frontend developers
-- Created and deployed LLM-powered features using **LangChain**, **LangGraph**, and **OpenAI APIs**  
-- Built custom RAG pipelines and document retrieval workflows for question-answering applications
+-*Threadcode Technologies Pvt. Ltd.*  
+📆 Jan 2025 – Present  
+
+- Designed and developed **FastAPI + React applications** with secure authentication and scalable APIs  
+- Built **AI-powered workflows** using LangChain, LangGraph, and vector databases for RAG  
+- Integrated **OpenAI and Anthropic models** into production workflows for contextual reasoning and automation  
+- Optimized backend performance and implemented **CI/CD pipelines with Docker and GitHub Actions**  
+- Delivered features end-to-end, from **schema design to frontend integration**  
+
 - 
-**Internship**  
-**Threadcode Technologies Pvt. Ltd.**
-📆 Jan 2024 – Apr 2024
-- Developed APIs and dynamic HTML templates using Jinja2, FastAPI
-- Designed and implemented database models using ORM
-- Practiced version control with Git in a collaborative setting
-- Supported feature delivery under guidance of senior developers
+**Backend Intern**  
+*Threadcode Technologies Pvt. Ltd.*  
+📆 Jan 2024 – Apr 2024  
+
+- Developed backend APIs using **FastAPI** and dynamic templates with **Jinja2**  
+- Designed and implemented database models with **PostgreSQL + ORM**  
+- Practiced Git-based collaboration and contributed to CI/CD processes  
+- Supported feature development under senior developer guidance  
+
+
+---
+
+## 🚀 Projects  
+
+- **AI To-Do App** *(FastAPI, PostgreSQL, JWT, React)*  
+  Built a secure full-stack app with authentication, CRUD APIs, and React frontend. Implemented **task categorization & summarization** using LLMs (via LangChain).  
+
+- **Conversational AI Agent Development** *(LangGraph, LangChain, Python)*  
+  Developed multi-agent chatbot workflows with LLMs (OpenAI, Groq). Integrated external tools (e.g., TavilySearch) for real-time info retrieval. Implemented **state management, checkpointing, and human-in-the-loop feedback loops**.  
 
 ---
 
@@ -81,7 +95,7 @@ I’m an enthusiastic and detail-oriented Software Engineer with a strong focus 
 
 ## 📎 References
 
-- [**Er. Sagar Budhhathoki**](https://www.linkedin.com/in/sbmagar13/) – DevOps Engineer, Threadcode Technologies  
+- [**Er. Sampurna Chhantyal**](https://www.linkedin.com/in/sampurnachhantyal/) – DevOps Engineer, Threadcode Technologies  
 
 - **Er. Shivahari Acharya** – Head of BCA, Nepal College of Information Technology  
   📧 hod.bca@ncit.edu.np
