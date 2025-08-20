@@ -1,6 +1,6 @@
 # 👨‍💻 Samuel Raj Bhat
 
-**Software Engineer | Python Backend Developer | FastAPI Enthusiast | AI Workflow Builder**  
+**Software Engineer | Python | FastAPI | AI | Agentic Workflow**  
 
 📍 Imadole, Lalitpur, Nepal    
 🔗 [linkedin.com/in/samuelbhat](https://www.linkedin.com/in/samuelbhat)
